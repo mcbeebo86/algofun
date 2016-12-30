@@ -1,4 +1,4 @@
-# Given a binary matrix, find the maximum size rectangle binary-sub-matrix with all 1’s.
+# Given a binary matrix, find the maximum size rectangle binary-sub-matrix with all 1s.
 
 class LargestRectangleMatrix:
 
